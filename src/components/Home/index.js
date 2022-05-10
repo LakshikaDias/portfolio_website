@@ -17,7 +17,7 @@ const Home = ()  => {
                     Frontend Developer /  UI,UX Engineer 
                 </h2>
 
-                <Link>
+                <Link to="/contact" className="flat-button">
                     contact me
                 </Link>
             </div>
